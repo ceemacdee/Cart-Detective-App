@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "cart-detective",
-    "slug": "snack-29ea6d5f-633c-4a74-9466-92afcf01ac6b",
+    "name": "Cart Detective",
+    "slug": "cart-detective",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -13,7 +13,8 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.cartdetective.app"
     },
     "android": {
       "adaptiveIcon": {
